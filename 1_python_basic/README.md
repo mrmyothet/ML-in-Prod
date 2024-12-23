@@ -6,6 +6,7 @@
 
 ```bash
 conda create -n dev_env python==3.10
+conda env list
 conda activate dev_env
 ```
 
