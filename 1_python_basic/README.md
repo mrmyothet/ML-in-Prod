@@ -26,3 +26,8 @@ conda activate dev_env
 - numpy
 - matplotlib
 - seaborn
+
+---
+
+- [Chip Huyen](https://huyenchip.com/)
+- [Alexander Amini](https://www.mit.edu/~amini/)
