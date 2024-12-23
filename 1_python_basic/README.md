@@ -18,5 +18,11 @@ conda activate dev_env
 - Experience Tracking
 
 - VS Code Extensions
+
   - Python
   - Jupyter
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
