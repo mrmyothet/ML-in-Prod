@@ -10,4 +10,8 @@ pipenv install
 
 pipenv install --dev pandas
 pipenv install --dev seaborn
+pipenv check
+
+pipenv run pip freeze > requirements.txt
+
 ```
