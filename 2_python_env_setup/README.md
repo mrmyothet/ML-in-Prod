@@ -14,4 +14,6 @@ pipenv check
 
 pipenv run pip freeze > requirements.txt
 
+pipenv install --dev dotenv
+
 ```
