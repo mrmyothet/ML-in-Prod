@@ -1,2 +1,1 @@
-# ML-in-Prod
-Machine Learning Systems for Production
+# Machine Learning Systems for Production
